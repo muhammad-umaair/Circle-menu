@@ -1,1 +1,29 @@
-
+.tips {
+    font-size: 40px;
+    color: #999;
+    position: fixed;
+    top: 50%;
+    left: 30%;
+  }
+  
+  .menu1 {
+    left: 50%;
+    top: 50%;
+  }
+  
+  .my-icon {
+    background: url("https://rawgit.com/yandongCoder/circular-menu/master/examples/circular-menu.png");
+  }
+  
+  .icon1 {
+    background-position: 0 0;
+  }
+  
+  .icon2 {
+    background-position: 0 -56px;
+  }
+  
+  .icon3 {
+    background-position: 0 -116px;
+  }
+  
